@@ -13,7 +13,7 @@ body {
 }
 
 #header {
- font-family: consolas;
+ font-family: "consolas", "Lucida Sans Typewriter", monospace;
  font-size: 18px;
  color: #4DACC8;	
 }
@@ -23,18 +23,20 @@ body {
  bottom: 0px;
  text-align: center;
  position: relative;
- font-family: consolas;
+ font-family:  "consolas", "Lucida Sans Typewriter", monospace;
  color: #4DACC8;
 }
 
-#contact{
- font-family: consolas;
+.contact{
+ font-family:  "consolas", "Lucida Sans Typewriter", monospace;
  font-size: 14px;
  color: #4DACC8;	
 }
 
 #ship img {
-
+	max-width: auto%;
+	height: auto;
+	width: auto\9; /* ie8 */
   -webkit-transition: opacity 1s ease-in-out;
   -moz-transition: opacity 1s ease-in-out;
   -o-transition: opacity 1s ease-in-out;
@@ -44,3 +46,4 @@ body {
 #ship img.footerimage:hover{
  opacity:.3;
 }
+

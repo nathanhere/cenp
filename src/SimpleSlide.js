@@ -36,7 +36,7 @@ function SimpleSlide(props){
 
   useEffect(()=>{
     function handleClick(e){
-      console.log(e);
+      // console.log(e);
       if (isOpen){
         setOpenState(false);
       } 
