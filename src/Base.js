@@ -47,19 +47,19 @@ function Base(){
 	        </div>
 	        <div className="contact">
 		        <div className="row justify-content-center" style={{paddingTop:"30px"}} >
-		        	Email|<a href="mailto:nathan@nathanishere.com">nathan@nathanishere.com</a>
-		        </div>
-		        <div className="row justify-content-center" style={{paddingTop:"0px"}} >
 		        	Media Highlights|<a href="http://bit.ly/TTshowcase" target="blank">Cisco Showcase</a>
-		        </div>
-		        <div className="row justify-content-center" style={{paddingTop:"0px"}} >
-		        	LinkedIn|<a href="http://bit.ly/natelinkedin" target="blank">@nathanhere</a>
 		        </div>
 		        <div className="row justify-content-center" style={{paddingTop:"0px"}} >
 		        	GitHub|<a href="https://github.com/nathanhere" target="blank">@nathanhere</a>
 		        </div>
 		        <div className="row justify-content-center" style={{paddingTop:"0px"}} >
 		        	Twitter|<a href="https://twitter.com/nathanhere" target="blank">@nathanhere</a>
+		        </div>
+		        <div className="row justify-content-center" style={{paddingTop:"0px"}} >
+		        	LinkedIn|<a href="http://bit.ly/natelinkedin" target="blank">@nathanhere</a>
+		        </div>
+		        <div className="row justify-content-center" style={{paddingTop:"0px"}} >
+		        	Email|<a href="mailto:nathan@nathanishere.com">nathan@nathanishere.com</a>
 		        </div>
 		        <div id='ship' className="row justify-content-center text-white" style={{paddingTop:"70px"}} >
 		            <img alt="bigshipframe" className="footerimage" src="tiny/bigShipFrame.png" />
