@@ -1,0 +1,49 @@
+body {
+	background-color : #000000;
+	/*background-color : #002030;*/
+	background-image: linear-gradient(-90deg, #002030, #000000);
+}
+
+.myDiv .bg {
+	opacity: .4;
+}
+
+#test {
+	opacity: 1;
+}
+
+#header {
+ font-family: "consolas", "Lucida Sans Typewriter", monospace;
+ font-size: 18px;
+ color: #4DACC8;	
+}
+
+#footer{
+ float: "right";
+ bottom: 0px;
+ text-align: center;
+ position: relative;
+ font-family:  "consolas", "Lucida Sans Typewriter", monospace;
+ color: #4DACC8;
+}
+
+.contact{
+ font-family:  "consolas", "Lucida Sans Typewriter", monospace;
+ font-size: 14px;
+ color: #4DACC8;	
+}
+
+#ship img {
+	max-width: auto%;
+	height: auto;
+	width: auto\9; /* ie8 */
+  -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+}
+
+#ship img.footerimage:hover{
+ opacity:.3;
+}
+
