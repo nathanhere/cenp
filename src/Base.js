@@ -53,7 +53,7 @@ function Base(){
 		        	Media Highlights|<a href="http://bit.ly/TTshowcase" target="blank">Cisco Showcase</a>
 		        </div>
 		        <div className="row justify-content-center" style={{paddingTop:"0px"}} >
-		        	Professional Network|<a href="http://bit.ly/natelinkedin" target="blank">LinkedIn</a>
+		        	LinkedIn|<a href="http://bit.ly/natelinkedin" target="blank">@nathanhere</a>
 		        </div>
 		        <div className="row justify-content-center" style={{paddingTop:"0px"}} >
 		        	GitHub|<a href="https://github.com/nathanhere" target="blank">@nathanhere</a>
